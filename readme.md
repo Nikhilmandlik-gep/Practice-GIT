@@ -1,2 +1,3 @@
 # Learning VS CODE
-## Its 7th time i'm learning it
+-----
+ - Second Commit (added through github)
